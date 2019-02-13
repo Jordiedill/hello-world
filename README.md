@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-Im Jordan. I decided to learn how to code and how everything behind the scenes of the internet works! I noticed that this may be a good place to start to develop these skills
+I'm Jordan. I decided to learn how to code and be able to build something from scratch. I began by self-teaching and have now moved on to more formal methods of education.
